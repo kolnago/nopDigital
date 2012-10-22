@@ -1,6 +1,8 @@
 *.suo
 *.user
 *.sln.docstates
+*.dll
+*.pdb
 [Dd]ebug/
 [Rr]elease/
 _ReSharper.NopCommerce/
@@ -8,5 +10,7 @@ Libraries/
 Packages/
 Presentation/Nop.Web/Content/Images/Thumbs/
 Presentation/Nop.Web/[Bb]in/
+Presentation/Nop.Web/Administration/[Bb]in/
+
 
 
